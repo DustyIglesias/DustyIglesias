@@ -2,7 +2,7 @@
 - 👀 I’m interested in BasketBall And CS
 - 🌱 I’m currently learning c# And Swift
 - 🤖 Languages i know Python , java , js, html, css
-- 📫 How to reach me ...https://twitter.com/DustyIglesias or https://twitter.com/Dustyiglesias_3
+- 📫 How to reach me ...https://twitter.com/DustyIglesias or https://twitter.com/Dustyiglesias_3 / https://discord.com/users/964131576604663838
 
 <!---
 CS student who sees future in computer science
