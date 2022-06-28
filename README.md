@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dustyiglesias" alt="dustyiglesias" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dustyiglesias" target="blank"><img src="https://img.shields.io/twitter/follow/dustyiglesias?logo=twitter&style=for-the-badge" alt="dustyiglesias" /></a> </p>
+
 
 - 🌱 I’m currently learning **C# and Swift**
 
@@ -54,6 +54,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dustyiglesias&" alt="dustyiglesias" /></p>
 
-# ❤ Views
+# ❤ Views And Follower
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustyiglesias&label=Profile%20views&color=0e75b6&style=flat" alt="dustyiglesias" /> </p>
-
+<p align="left"> <a href="https://twitter.com/dustyiglesias" target="blank"><img src="https://img.shields.io/twitter/follow/dustyiglesias?logo=twitter&style=for-the-badge" alt="dustyiglesias" /></a> </p>
