@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/968416754617417758/991300214700904458/32DF9905-A79F-4F2A-96C1-27569E540B85.gif)
+![MasterHead](https://cdn.discordapp.com/attachments/968416754617417758/991300214700904458/32DF9905-A79F-4F2A-96C1-27569E540B85.gif)
 <h1 align="center">Hi 👋, I'm Dusty Iglesias</h1>
 <h3 align="center">👀 BasketBall And Computer Science</h3>
 <img align="right" alt="Coding" width="400" img src="https://cdn.discordapp.com/attachments/968416754617417758/991300214700904458/32DF9905-A79F-4F2A-96C1-27569E540B85.gif">
