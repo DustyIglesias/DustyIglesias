@@ -3,7 +3,7 @@
 <h3 align="center">👀 BasketBall And Computer Science</h3>
 <img align="right" alt="Coding" width="400" img src="https://cdn.discordapp.com/attachments/968416754617417758/991300214700904458/32DF9905-A79F-4F2A-96C1-27569E540B85.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dustyiglesias&label=Profile%20views&color=0e75b6&style=flat" alt="dustyiglesias" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dustyiglesias" alt="dustyiglesias" /></a> </p>
 
@@ -54,5 +54,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dustyiglesias&" alt="dustyiglesias" /></p>
 
-
+# ❤ Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dustyiglesias&label=Profile%20views&color=0e75b6&style=flat" alt="dustyiglesias" /> </p>
 
