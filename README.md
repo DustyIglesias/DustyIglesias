@@ -4,5 +4,5 @@
 - 📫 How to reach me ...[discord ](https://discord.gg/MtvyesrYRm)
 
 <!---
-CS student who sees future in cs 
+CS student who sees future in computer science
 --->
